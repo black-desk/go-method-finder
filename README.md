@@ -13,7 +13,9 @@ go build
 
 you will see something like this
 
-> TARGET
->        FUNC3
->        FUNC1
->        FUNC2
+```
+TARGET
+    FUNC3
+    FUNC1
+    FUNC2
+```
